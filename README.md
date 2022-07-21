@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazlı Güngör</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Java Developer from Turkey</h3>
 
 - 🔭 I’m currently working on Test Automation and Java Backend projects.
 - 🌱 I’m currently learning Java Spring and React.
